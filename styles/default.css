@@ -53,13 +53,6 @@ img {
     width: 60%;
 }
 
-/* Estilos para os títulos h1*/
-h1 {
-    font-family: freemono, monospace;
-    color: rgb(194, 83, 83);
-    font-size: 25px;
-}
-
 /* Estilos para os títulos h2*/
 h2 {
     font-family: 'Caveat', cursive;
@@ -75,38 +68,6 @@ h2 {
 p {
     text-align: justify;
     margin-bottom: 10px;
-}
-
-/* Estilos para as seções */
-section {
-    padding: 20px;
-    max-width: 1000px;
-    width: 100%;
-}
-
-/* Estilos para a classe space */
-.space {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    flex-wrap: wrap;
-}
-
-/* Estilos para os cartões */
-.card {
-    background-color: #ffffff;
-    border-radius: 10px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    padding: 20px;
-    width: 100%;
-    max-width: 300px;
-    transition: transform 0.3s, box-shadow 0.3s;
-}
-
-/* Estilos para o estado hover dos cartões */
-.card:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 /* Estilos para o rodapé */
