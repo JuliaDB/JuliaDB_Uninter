@@ -54,38 +54,15 @@ h1 {
     color: rgb(199, 143, 118);
 }
 
-h1 {
-    font-size: 36px;
-    margin-bottom: 20px;
-    text-align: left;
-}
-
 th{
     text-align: left;
     padding-bottom: 10px;
     font-weight: 400;
 
 }
+
 td{
     padding-bottom: 10px;
-}
-
-section {
-    padding: 20px;
-    max-width: 1000px;
-    width: 100%;
-}
-
-.space {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    flex-wrap: wrap;
-}
-
-.card:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 footer {
